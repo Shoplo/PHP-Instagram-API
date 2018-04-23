@@ -1,10 +1,17 @@
 {
-    "name": "php-instagram-api/php-instagram-api",
+    "name": "shoplo/php-instagram-api",
     "type": "library",
     "description": "PHP Instagram API for PHP 5.3+",
     "keywords": ["instagram"],
-    "homepage": "https://github.com/galen/PHP-Instagram-API",
+    "homepage": "https://github.com/shoplo/PHP-Instagram-API",
     "license": "MIT",
+    "version": "1.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/galen/PHP-Instagram-API.git"
+        }
+    ],
     "authors": [
         {
             "name": "Galen Grover",
